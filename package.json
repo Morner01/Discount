@@ -1,0 +1,23 @@
+{
+  "name": "discount",
+  "version": "1.0.0",
+  "description": "## Описание проекта",
+  "main": "DiscountService.js",
+  "scripts": {
+    "test": "node __tests__/index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morner01/Discount.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morner01/Discount/issues"
+  },
+  "homepage": "https://github.com/Morner01/Discount#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
